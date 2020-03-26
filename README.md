@@ -3,6 +3,8 @@
 
 A ideia deste projeto é utilizar o terminal para gerar codigo do [Adianti Framework](https://www.adianti.com.br/framework "Adianti Framework")
 
+Ajude o projeto, [faça uma doação](https://pag.ae/7VTfQRAhJ "faça uma doação").
+
 #### Features:
 Atraves de alguns comandos no terminal é possível gerar codigo para seu projeto, a idéia é utilizar um **Wizard** via terminal para auxiliar na criação dos componentes.
 
